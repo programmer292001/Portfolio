@@ -15,7 +15,7 @@ section {
 .Homepage{
     position: relative;
     min-height: 100vh;
-    background: url(../Portfolio\ Website/BG1.jpg);
+    background: url(BG1.jpg);
     background-size: cover;
     display: flex;
     flex-direction: row;
